@@ -1,0 +1,46 @@
+{
+    "platform": "WeBull",
+    "cash-bal": "10000",
+    "investments": [
+        {
+            "ticker": "SCHD",
+            "shares": 10.08388,
+            "avg_price": 30.64
+        },
+        {
+            "ticker": "JEPI",
+            "shares": 8.05849,
+            "avg_price": 56.94
+        },
+        {
+            "ticker": "NOBL",
+            "shares": 7.03373,
+            "avg_price": 105.67
+        },
+        {
+            "ticker": "JEPQ",
+            "shares": 4.04026,
+            "avg_price": 56.73
+        },
+        {
+            "ticker": "GPIX",
+            "shares": 10,
+            "avg_price": 50.60
+        },
+        {
+            "ticker": "MSFT",
+            "shares": 3,
+            "avg_price": 414.74
+        },
+        {
+            "ticker": "NVDA",
+            "shares": 10,
+            "avg_price": 183.08
+        },
+        {
+            "ticker": "IYW",
+            "shares": 13,
+            "avg_price": 192.64
+        }
+    ]
+}

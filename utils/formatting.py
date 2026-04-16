@@ -1,0 +1,5 @@
+def format_currency(value):
+    return f"${value:.2f}"
+
+def format_percent(value):
+    return f"{value:.2f}%"
